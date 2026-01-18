@@ -5,3 +5,4 @@ Commit #4 by Emam Hassan at 2026-01-10T11:20:45: fixed memory leak
 Commit #5 by Emam Hassan at 2026-01-10T23:13:51: updated dependencies
 Commit #6 by Ruzhan Reaz at 2026-01-14T23:30:28: added form validation
 Commit #7 by Ruzhan Reaz at 2026-01-15T14:57:46: implemented core auth
+Commit #8 by Ruzhan Reaz at 2026-01-18T12:22:26: added form validation
