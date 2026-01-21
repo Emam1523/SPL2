@@ -8,3 +8,4 @@ Commit #7 by Ruzhan Reaz at 2026-01-15T14:57:46: implemented core auth
 Commit #8 by Ruzhan Reaz at 2026-01-18T12:22:26: added form validation
 Commit #9 by Ruzhan Reaz at 2026-01-18T15:34:03: integrated library
 Commit #10 by Emam Hassan at 2026-01-19T08:25:22: added dashboard feature
+Commit #11 by Emam Hassan at 2026-01-21T15:12:01: fixed styling
