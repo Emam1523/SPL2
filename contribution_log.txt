@@ -10,3 +10,4 @@ Commit #9 by Ruzhan Reaz at 2026-01-18T15:34:03: integrated library
 Commit #10 by Emam Hassan at 2026-01-19T08:25:22: added dashboard feature
 Commit #11 by Emam Hassan at 2026-01-21T15:12:01: fixed styling
 Commit #12 by Ruzhan Reaz at 2026-01-21T17:28:57: fixed header bug
+Commit #13 by Ruzhan Reaz at 2026-01-24T00:34:02: fixed mobile layout
