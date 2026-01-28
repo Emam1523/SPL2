@@ -14,3 +14,4 @@ Commit #13 by Ruzhan Reaz at 2026-01-24T00:34:02: fixed mobile layout
 Commit #14 by Ruzhan Reaz at 2026-01-24T22:20:14: fixed header bug
 Commit #15 by Emam Hassan at 2026-01-26T01:41:06: resolved merge conflicts
 Commit #16 by Ruzhan Reaz at 2026-01-26T11:37:12: integrated library
+Commit #17 by Ruzhan Reaz at 2026-01-28T12:28:29: updated docs
