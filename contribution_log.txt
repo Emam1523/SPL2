@@ -25,3 +25,4 @@ Commit #24 by Emam Hassan at 2026-02-08T05:16:20: added error handling
 Commit #25 by Ruzhan Reaz at 2026-02-08T15:56:24: refactored component
 Commit #26 by Ruzhan Reaz at 2026-02-12T07:44:00: updated dependencies
 Commit #27 by Emam Hassan at 2026-02-13T11:13:14: updated dependencies
+Commit #28 by Ruzhan Reaz at 2026-02-26T18:35:23: fixed memory leak
