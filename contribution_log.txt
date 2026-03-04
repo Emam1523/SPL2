@@ -28,3 +28,4 @@ Commit #27 by Emam Hassan at 2026-02-13T11:13:14: updated dependencies
 Commit #28 by Ruzhan Reaz at 2026-02-26T18:35:23: fixed memory leak
 Commit #29 by Ruzhan Reaz at 2026-02-26T18:50:58: refactored component
 Commit #30 by Emam Hassan at 2026-02-27T12:23:24: fixed styling
+Commit #31 by Emam Hassan at 2026-03-04T13:37:51: implemented core auth
