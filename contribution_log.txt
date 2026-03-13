@@ -33,3 +33,4 @@ Commit #32 by Emam Hassan at 2026-03-06T11:07:53: optimized queries
 Commit #33 by Ruzhan Reaz at 2026-03-09T03:17:13: fixed memory leak
 Commit #34 by Ruzhan Reaz at 2026-03-11T20:12:30: fixed header bug
 Commit #35 by Emam Hassan at 2026-03-13T06:13:21: added error handling
+Commit #36 by Ruzhan Reaz at 2026-03-13T20:39:16: added error handling
