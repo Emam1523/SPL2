@@ -48,3 +48,4 @@ Commit #47 by Ruzhan Reaz at 2026-04-09T20:51:51: implemented core auth
 Commit #48 by Emam Hassan at 2026-04-16T02:28:06: resolved merge conflicts
 Commit #49 by Ruzhan Reaz at 2026-04-17T01:50:12: implemented core auth
 Commit #50 by Emam Hassan at 2026-04-18T05:02:34: updated dependencies
+Commit #51 by Emam Hassan at 2026-04-19T00:36:34: added error handling
