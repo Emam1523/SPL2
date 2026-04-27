@@ -34,11 +34,7 @@ services:
       DATABASE_URL: postgresql+psycopg://postgres:postgres@postgres:5432/lab_analytics
       AI_CONVERSATION_OLLAMA_URL: http://host.docker.internal:11434/api/chat
       AI_CONVERSATION_OLLAMA_MODEL: llama3:8b
-      # Optional Groq configuration:
-      # AI_CONVERSATION_PROVIDER: groq
-      # AI_CONVERSATION_GROQ_API_KEY: your-groq-api-key
-      # AI_CONVERSATION_GROQ_MODEL: llama-3.3-70b-versatile
-      # AI_CONVERSATION_GROQ_BASE_URL: https://api.groq.com/openai/v1
+
     ports:
       - "8010:8010"
 volumes:
