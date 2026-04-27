@@ -56,7 +56,6 @@ const MyAssistants = () => {
     }
   }, [token]);
 
-  // Fetch assistants on component mount
   useEffect(() => {
     fetchAssistants();
   }, [fetchAssistants]);
